@@ -59,3 +59,4 @@
 * [Free Code School Intro to Git](https://www.codeschool.com/courses/try-git)
 * [Pro Git Book](http://git-scm.com/book)
 * [Try Git on GitHub](http://try.github.io/levels/1/challenges/1)
+Changes Made 
